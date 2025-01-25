@@ -44,4 +44,8 @@ env/
 
 # OS
 .DS_Store
-Thumbs.db 
+Thumbs.db
+
+# Project specific
+app copy.py
+*copy.py 
